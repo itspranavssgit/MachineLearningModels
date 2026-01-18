@@ -1,5 +1,5 @@
-# 94061_DS_Assign
-94061_DS_Assign
+# MACHINE LEARNING
+Models
 <br>------------------------------------- # ASSIGNMENTS -----------------------------------------------<br>
 <br>1.NUMPY AND PANDAS<br>
 <br>2.EDA and Data Preprocessing<br>
